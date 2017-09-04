@@ -1,2 +1,2 @@
 # google_homepage
-Mini projekt fot TOP
+Mini projekt for TOP
